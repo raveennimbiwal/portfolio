@@ -69,9 +69,9 @@ Data Cleaning • Data Visualization • Exploratory Data Analysis (EDA) • Das
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/raveen-nimbiwal-25b22a36b)
+- [LinkedIn](https://www.linkedin.com/in/raveen-nimbiwal/)
 - [GitHub](https://github.com/raveennimbiwal/data-analyst-portfolio)
-- [Email](raveennimbiwal99@gmail.com)
+- [Email](mailto:raveennimbiwal99@gmail.com) (raveennimbiwal99@gmail.com)
 
 ---
 Thank you for visiting my portfolio and exploring my  projects.
